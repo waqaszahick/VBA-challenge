@@ -14,5 +14,6 @@ I used ‘for’ and ‘if’ loops in my script, that ran through all the avail
 * Greatest % increase ‘Value’
 * Greatest % decrease ‘Value’
 * Greatest total volume ‘Value’
+
 Apart from the above-mentioned tasks performed, I applied conditional formatting that highlighted the negative values in ‘red’ colour and the positive values in ‘green’ colour.
 Also, I uploaded three screenshots of my results of three respective worksheets / years on the ‘Multi Year Stock Data’ file i.e. ‘multiple_year_stock_data.xlsx’, along with a separate ‘VBA Script’ file i.e. ‘VBA-challenge.vbs’.
